@@ -1,6 +1,6 @@
 # Markdown Link Validator 
 
-A simple link validator from Markdown file
+A simple link validator for Markdown files using CLI
 
 ## Usage 
 
