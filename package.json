@@ -27,6 +27,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/2299-lib-markdown.git"
+    "url": "git+https://github.com/hemelo/markdown-link-validator"
   }
 }
