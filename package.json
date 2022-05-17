@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.2.0",
+    "node-fetch": "^3.2.4",
+    "simplur": "^3.0.1"
+  },
+  "name": "markdown-link-validator",
+  "version": "1.0.0",
+  "description": "Simple package that checks if links in markdown files are working",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest ./test",
+    "cli": "node cli.js"
+  },
+  "bin": {
+    "markdown-link-validator": "cli.js"
+  },
+  "keywords": [
+    "markdown",
+    "link",
+    "validator",
+    "checker"
+  ],
+  "author": "Henrique Melo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alura-cursos/2299-lib-markdown.git"
+  }
+}
