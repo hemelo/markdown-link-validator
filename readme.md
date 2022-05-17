@@ -1,10 +1,10 @@
 # Markdown Link Validator 
 
-A simple validator to links from Markdown files
+A simple link validator from Markdown file
 
 ## Usage 
 
-You can count how many links are on a markdown file by
+You can count how many links are on a markdown file by:
 
 ```
 $ node cli.js --markdown=./test.md
